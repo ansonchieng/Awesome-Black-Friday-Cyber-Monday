@@ -141,6 +141,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 💬 | [Mockly](https://www.getmockly.com/?utm_source=bf) | Create realistic one-on-one and group chat mockups (and videos) for WhatsApp, Messenger, Instagram, iMessage, Telegram, Slack, and more. Ideal for marketing, social media, creators, and filmmakers. | 20% off on weekly subscription, 50% off on lifetime subscription | 
 | 🖥️ | [ScreenSnap Pro](https://screensnap.pro/?utm_source=bf) | Turn ordinary screenshots into stunning visuals in seconds. Add gorgeous backgrounds, annotate with 14 tools, and cloud share instantly.| 50% OFF Lifetime and Subscription **EZNZQWNW** |
 | 📱 | [Sleek](https://sleek.design/?promo=BLACKFRIDAY2025&utm_source=github&utm_medium=referral&utm_campaign=black-friday-2025&utm_content=awesome-bfcm-list) | Generate mobile app mockups in minutes using AI. Export to Figma, React, or HTML. | 30% OFF **BLACKFRIDAY2025** |
+| ⓢ  | [Sitely 6](https://sitely.app) | Visual + AI Website Builder for macOS | 50% OFF (automatically applied)|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -253,7 +254,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🛒 | [OneCart](https://www.getonecart.com/?utm_source=tonybf) | Multi-channel ecommerce management SaaS: Sync inventory in real-time, process orders centrally, manage listings, and gain analytics across Shopee, Lazada, Amazon, TikTok Shop, Decathlon, Shopify, WooCommerce, and more. | 20% OFF Trader & Business Plans with code **BLACKFRIDAY2025**|
 | 📊 | [ZodQR](https://zodqr.com/?utm_source=tonybf) | Create, share and track unlimited dynamic QR codes (URL, vCard, link-in-bio, file, PDF, MP3,...) for free. Unlock Pro features for teams: advanced analytics, team work in workspace, campaign, bulk generate, API and integration for $29/month or $290/year. | 30% OFF with code **BLACKFRIDAY2025** |
 | 🛟 | [HelpKit](https://www.helpkit.so) | Notion to Help Center & Doc Site. Turn your Notion pages into a professional knowledge base. Comes with an embeddable widget, full-text search, AI chatbot, analytics, article reactions and more! | 30% OFF on all plans with code **BLACKFRIDAY25**
-
+| 📊 | [Desk365](https://www.desk365.io/) | Desk365 is an AI-powered helpdesk software for teams of all sizes. With advanced features like AI-agent, approval-management, and Microsoft 365 integration, the Desk365 platform empowers agents to enhance productivity, automate workflows, and deliver exceptional customer experiences.| 10% OFF on all plans for new users with code  **BF2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
